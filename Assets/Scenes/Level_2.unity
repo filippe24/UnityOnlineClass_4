@@ -44197,6 +44197,32 @@ PrefabInstance:
       propertyPath: m_ReferenceResolution.y
       value: 1040
       objectReference: {fileID: 0}
+    - target: {fileID: 2252473090131858030, guid: b9611bc42a54fe049b7b235e869fb70d,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2252473090131858030, guid: b9611bc42a54fe049b7b235e869fb70d,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 0.83773535
+      objectReference: {fileID: 0}
+    - target: {fileID: 2252473090131858030, guid: b9611bc42a54fe049b7b235e869fb70d,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 0.8862745
+      objectReference: {fileID: 0}
+    - target: {fileID: 2252473090131858030, guid: b9611bc42a54fe049b7b235e869fb70d,
+        type: 3}
+      propertyPath: m_FontData.m_FontStyle
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2252473090131858030, guid: b9611bc42a54fe049b7b235e869fb70d,
+        type: 3}
+      propertyPath: m_FontData.m_Font
+      value: 
+      objectReference: {fileID: 12800000, guid: 87c316b602156405d92e616621658222,
+        type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b9611bc42a54fe049b7b235e869fb70d, type: 3}
 --- !u!1001 &2627396961315723643
